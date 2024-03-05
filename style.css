@@ -1,0 +1,31 @@
+.card_A {
+    background-color: #FFD580;
+    height: 500px;
+    width: 500px;
+}
+
+.card_B {
+    background-color: rgb(144, 238, 144);
+    width: 50%;
+    height: 50%;
+}
+
+.card_B p {
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.card_D {
+    width: 50%;
+    height: 50vh;
+    background-color: #add8e6
+}
+
+.card_D div{
+    width: 75vw; 
+    height: 50%; 
+    background-color: rgb(255,0,0)
+}
